@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+The insides of your chosen folder are identified;
+To track changes in the component files and status of those changes (were there any commits, etc.) 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is a "hub" where all the changes to be commited are stored. It is connected with the repository which is contained within the working directory.
+It sort of accumulates changes to be "transferred" to Git. 
+ 
+
